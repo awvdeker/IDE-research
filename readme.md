@@ -14,7 +14,7 @@ There are a lot of IDE's available on the web. The ones that caught my attention
 
 I will choose **Brackets**
 
-download link: (brackets.io)
+download link: <brackets.io>
 
 _pros_:
 
@@ -30,7 +30,7 @@ _neg_:
 
 2. only front-end, less suitable for server-linked languages
 
-3. Brackes needs plugins and packages to be really complete
+3. Brackets needs plugins and packages to be really complete
 
 
 The no.1 reason I chose Brackets: it is very handy for HTML, CSS and JavaScript.

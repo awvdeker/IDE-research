@@ -14,7 +14,7 @@ There are a lot of IDE's available on the web. The ones that caught my attention
 
 I will choose **Brackets**
 
-download link: brackets.io
+[download link] (https:/brackets.io)
 
 _pros_:
 

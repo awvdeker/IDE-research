@@ -14,7 +14,7 @@ There are a lot of IDE's available on the web. The ones that caught my attention
 
 I will choose **Brackets**
 
-download link: <brackets.io>
+download link: brackets.io
 
 _pros_:
 
@@ -24,7 +24,7 @@ _pros_:
 
 3. HTML and CSS real time updates
 
-_neg_:
+_cons_:
 
 1. no compiler functionality
 
